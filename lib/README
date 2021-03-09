@@ -1,0 +1,8 @@
+それぞれのライブラリ用のMakefileを添付しておきます．
+本体は各自手に入れてください．
+jpeglib 6b
+psplibrarysに含まれます．
+libpng 1.2.8
+psplibrarysに含まれます．
+libungif 4.1.4
+http://sourceforge.net/projects/giflib/から入手してください
